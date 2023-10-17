@@ -2,7 +2,7 @@
 
 ## 📋 About Me
 
-🎓 MIPT Student (Software Engineering & Machine Learning)
+🎓 MIPT Student
 
 💻 Software engineer (Go, C++, Python)
 
