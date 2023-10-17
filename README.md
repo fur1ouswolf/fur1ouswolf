@@ -7,7 +7,7 @@
 💻 Software engineer (Go, C++, Python)
 
 <div>
-    <h2>🛠️ Skills
+    <h2>🛠️ Skills 
     <img src="https://github.com/fur1ouswolf/fur1ouswolf/blob/main/assets/gopher.png" width="18" height="24"/>
     <img src="https://github.com/fur1ouswolf/fur1ouswolf/blob/main/assets/goppy.png" width="24" height="24"/>
     <img src="https://github.com/fur1ouswolf/fur1ouswolf/blob/main/assets/godocker.png" width="30" height="24"/>
@@ -25,7 +25,7 @@
   - Docker
   - GitHub Actions
 
-## 📈 Languages stats
+## 📈 Languages Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fur1ouswolf&theme=tokyonight&bg_color=DEG,00000000,00000000,2e91e6&border_radius=5&hide=jupyter%20notebook,c%23&layout=donut)
 
