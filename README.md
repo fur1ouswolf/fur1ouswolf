@@ -1,16 +1,32 @@
-### Hi there 👋
+# Valerii (@fur1ouswolf)
 
-<!--
-**fur1ouswolf/fur1ouswolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 About Me
 
-Here are some ideas to get you started:
+🎓 MIPT Student (Software Engineering & Machine Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Software engineer (Go, C++, Python)
+
+<div>
+    <h2>🛠️ Skills
+    <img src="https://github.com/fur1ouswolf/fur1ouswolf/blob/main/assets/gopher.png" width="18" height="24"/>
+    <img src="https://github.com/fur1ouswolf/fur1ouswolf/blob/main/assets/goppy.png" width="24" height="24"/>
+    <img src="https://github.com/fur1ouswolf/fur1ouswolf/blob/main/assets/godocker.png" width="30" height="24"/>
+    <img src="https://github.com/fur1ouswolf/fur1ouswolf/blob/main/assets/goserver.png" width="39" height="24"/>
+    </h2>
+</div>
+
+- Go (Gin, Fiber, GORM, DiscordGo)
+- C++ (Qt, OpenGL, Tesseract)
+- Python (Scikit-learn, XGBoost, CatBoost, NumPy, Pandas)
+- DB (PostgreSQL)
+- Message Brokers (Kafka)
+- Git
+- Containers, DevOps:
+  - Docker
+  - GitHub Actions
+
+## Languages stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fur1ouswolf&theme=tokyonight&bg_color=DEG,00000000,00000000,2e91e6&border_radius=5&hide=jupyter%20notebook,c%23&layout=donut)
+
+<img src="https://komarev.com/ghpvc/?username=fur1ouswolf&style=for-the-badge&color=2e91e6" alt=""/>
