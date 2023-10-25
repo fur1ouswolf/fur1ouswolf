@@ -18,7 +18,7 @@
 - Go (Gin, Fiber, GORM, DiscordGo)
 - C++ (Qt, OpenGL, Tesseract)
 - Python (Scikit-learn, XGBoost, CatBoost, NumPy, Pandas)
-- DB (PostgreSQL)
+- DB (PostgreSQL, MongoDB, InfluxDB)
 - Message Brokers (Kafka)
 - Git
 - Containers, DevOps:
