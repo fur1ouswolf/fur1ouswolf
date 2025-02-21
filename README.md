@@ -2,9 +2,11 @@
 
 ## 📋 About Me
 
-🎓 MIPT Student
+🎓 MIPT Student (Applied Mathematics & Computer Science)
 
-💻 Software engineer (Go, C++, Python)
+💻 Backend Software Engineer (Go)
+
+🤖 Machine learning enthusiast
 
 <div>
     <h2>🛠️ Skills 
@@ -15,15 +17,16 @@
     </h2>
 </div>
 
-- Go (Gin, Fiber, GORM, DiscordGo)
-- C++ (Qt, OpenGL, Tesseract)
-- Python (Scikit-learn, XGBoost, CatBoost, NumPy, Pandas)
-- DB (PostgreSQL, MongoDB, InfluxDB)
-- Message Brokers (Kafka)
+- Go
+- C++ (Qt, OpenGL)
+- Python (Scikit-learn, XGBoost, CatBoost)
+- DB (PostgreSQL, ClickHouse, MongoDB)
+- Message Brokers (Kafka, NATS)
 - Git
-- Containers, DevOps:
-  - Docker
-  - GitHub Actions
+- CI/CD & DevOps:
+  - Docker, k8s & Helm
+  - GitLab CI, GitHub Actions
+  - ELK Stack, Grafana Stack
 
 ## 📈 Languages Stats
 
